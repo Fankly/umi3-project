@@ -1,0 +1,24 @@
+{
+<<<<<<< HEAD
+  "singleQuote": true,
+=======
+  "singleQuote": false,
+>>>>>>> f226c12 (test)
+  "trailingComma": "all",
+  "printWidth": 80,
+  "overrides": [
+    {
+      "files": ".prettierrc",
+<<<<<<< HEAD
+      "options": { "parser": "json" }
+    }
+  ]
+}
+=======
+      "options": {
+        "parser": "json"
+      }
+    }
+  ]
+}
+>>>>>>> f226c12 (test)
